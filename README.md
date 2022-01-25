@@ -16,7 +16,7 @@ Adding the ESP32 package to your Arduino IDE:
 2. In the "Additional Board Manager URLs" field, enter this link: https://dl.espressif.com/dl/package_esp32_index.json and click the OK button
 3. Go to Tools > Board > Boards Manager
 4. Search "esp32" and install the "ESP32 by Espressif Systems" package.
-5. Select your ESP32 board from Tools > Board  (Use ESP32 Dev Module if you are unsure)
+5. Select your ESP32 board from Tools > Board  (Use ESP32 Dev Module if you are unsure) (I'm pretty sure we use either NodeMCU-32S or ESP32 Wrover Module)
 
 **Adding ESP32Servo library for servo control**
 1. Go to Tools > Manage Libraries in Arduino IDE
