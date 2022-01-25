@@ -22,3 +22,5 @@ Adding the ESP32 package to your Arduino IDE:
 1. Go to Tools > Manage Libraries in Arduino IDE
 2. Search for ESP32Servo in the search bar
 3. Find the ESP32Servo library authored by Kevin Harrington, click 'More info...' and then Install
+
+![Alt text](https://content.instructables.com/ORIG/FOL/YWLI/JEOILQ5U/FOLYWLIJEOILQ5U.png?auto=webp&frame=1&width=1024&fit=bounds&md=a74a05c18f4b4d9f0db00ec63c7bc3c0)
