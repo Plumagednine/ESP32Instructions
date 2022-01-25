@@ -20,15 +20,14 @@ Most boards use the Silabs CP210x USB to UART chip, for which you have to instal
 
 **Adding ESP32Servo library for servo control**
 1. Go to Tools > Manage Libraries in Arduino IDE
-2. Search for ESP32Servo in the search bar
-3. Find the ESP32Servo library authored by Kevin Harrington, click 'More info...' and then Install
-[link on arduino website](https://www.arduino.cc/reference/en/libraries/esp32servo/)
+2. Search for [ESP32Servo](https://www.arduino.cc/reference/en/libraries/esp32servo/) in the search bar
+3. Find the [ESP32Servo](https://www.arduino.cc/reference/en/libraries/esp32servo/) library authored by Kevin Harrington, click 'More info...' and then Install
 
 **Adding ESP32-ESP32S2-AnalogWrite library for analog write**
 1. Go to Tools > Manage Libraries in Arduino IDE
-2. Search for ESP32 ESP32S2 AnalogWrite in the search bar
-3. Find the ESP32 ESP32S2 AnalogWrite library authored by David Lloyd, click 'More info...' and then Install
-[link on arduino website](https://www.arduino.cc/reference/en/libraries/esp32-esp32s2-analogwrite/)
+2. Search for [ESP32 ESP32S2 AnalogWrite](https://www.arduino.cc/reference/en/libraries/esp32-esp32s2-analogwrite/) in the search bar
+3. Find the [ESP32 ESP32S2 AnalogWrite](https://www.arduino.cc/reference/en/libraries/esp32-esp32s2-analogwrite/) library authored by David Lloyd, click 'More info...' and then Install
+
 
 
 **NodeMCU-32S Pinout**
