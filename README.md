@@ -16,7 +16,7 @@ Most boards use the Silabs CP210x USB to UART chip, for which you have to instal
 2. In the "Additional Board Manager URLs" field, enter this link: https://dl.espressif.com/dl/package_esp32_index.json and click the OK button
 3. Go to Tools > Board > Boards Manager
 4. Search "esp32" and install the "ESP32 by Espressif Systems" package.
-5. Select your ESP32 board from Tools > Board  (Use ESP32 Dev Module if you are unsure) (I'm pretty sure we use **NodeMCU-32S** or ESP32 Wrover Module)
+5. Select your ESP32 board from Tools > Board  (Use ESP32 Dev Module or ESP32 Wrover Module if you are unsure) (I'm pretty sure we use **NodeMCU-32S**)
 
 **Adding ESP32Servo library for servo control**
 1. Go to Tools > Manage Libraries in Arduino IDE
