@@ -25,4 +25,4 @@ Adding the ESP32 package to your Arduino IDE:
 
 
 **NodeMCU-32S Pinout**
-![Alt text](https://content.instructables.com/ORIG/FOL/YWLI/JEOILQ5U/FOLYWLIJEOILQ5U.png?auto=webp&frame=1&width=1024&fit=bounds&md=a74a05c18f4b4d9f0db00ec63c7bc3c0)
+![Screenshot](NodeMCU-32S Pinout.png)
