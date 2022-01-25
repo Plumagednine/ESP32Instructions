@@ -1,7 +1,7 @@
 # ESP32Instructions
 **Adding Required ESP-32 Libraries**
 
-Using ESP-32 Dev Boards, which are required if you want to use Bluetooth Serial to connect your gloves wirelessly, requires you to install additional packages to your Arduino IDE and a specific driver. Below is the procedure for doing so.
+Using ESP-32 Dev Boards, requires you to install additional packages to your Arduino IDE and a specific driver. Below is the procedure for doing so.
 
 Most boards use the Silabs CP210x USB to UART chip, for which you have to install the driver:
 
@@ -22,13 +22,13 @@ Most boards use the Silabs CP210x USB to UART chip, for which you have to instal
 1. Go to Tools > Manage Libraries in Arduino IDE
 2. Search for ESP32Servo in the search bar
 3. Find the ESP32Servo library authored by Kevin Harrington, click 'More info...' and then Install
-(link on arduino website) https://www.arduino.cc/reference/en/libraries/esp32servo/
+[link on arduino website](https://www.arduino.cc/reference/en/libraries/esp32servo/)
 
 **Adding ESP32-ESP32S2-AnalogWrite library for analog write**
 1. Go to Tools > Manage Libraries in Arduino IDE
 2. Search for ESP32 ESP32S2 AnalogWrite in the search bar
 3. Find the ESP32 ESP32S2 AnalogWrite library authored by David Lloyd, click 'More info...' and then Install
-(link on arduino website) https://www.arduino.cc/reference/en/libraries/esp32-esp32s2-analogwrite/
+[link on arduino website](https://www.arduino.cc/reference/en/libraries/esp32-esp32s2-analogwrite/)
 
 
 **NodeMCU-32S Pinout**
