@@ -1,4 +1,4 @@
-# ESP32Instructions
+# ESP32Instructions for WHS Students
 **Adding Required ESP-32 Libraries**
 
 Using ESP-32 Dev Boards, requires you to install additional packages to your Arduino IDE and a specific driver. Below is the procedure for doing so.
